@@ -1,3 +1,4 @@
-.h5
-.pickle
+next_word_lstm.h5
+config.pickle
+tokenizer.pickle
 venv/
